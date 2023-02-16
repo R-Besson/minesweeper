@@ -1,6 +1,8 @@
 # Simple C++ Minesweeper
 [![](https://img.shields.io/badge/Author-Romain%20Besson-brightgreen)](https://github.com/R-Besson) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Using-SFML-green)
 
+> **Minesweeper** features a grid of clickable squares, with hidden "mines" scattered throughout the board. The objective is to clear the board (find all the mines by placing a flag) without detonating any mines, with help from clues about the number of neighboring mines in each square. [Wikipedia](https://en.wikipedia.org/wiki/Minesweeper_(video_game)) 
+
 <img src="game.png" width="400">
 
 ## Requirements
